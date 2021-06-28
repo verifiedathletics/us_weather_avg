@@ -1,0 +1,40 @@
+﻿name,country_name,country_code,continent,station_code,Lon,Lat
+Atlanta,UnitedStates,USA,North America,KATL,-84.4227,33.7629
+Windsor Locks,UnitedStates,USA,North America,KBDL,-72.6833,41.766
+Nashville,UnitedStates,USA,North America,KBNA,-86.785,36.1718
+Boise,UnitedStates,USA,North America,KBOI,-116.2311,43.5985
+Boston,UnitedStates,USA,North America,KBOS,-71.0202,42.332
+Buffalo,UnitedStates,USA,North America,KBUF,-78.8597,42.8925
+Burbank,UnitedStates,USA,North America,KBUR,-118.3249,34.189
+Baltimore,UnitedStates,USA,North America,KBWI,-76.6105,39.3002
+Columbus,UnitedStates,USA,North America,KCMH,-82.985,39.9848
+Los Angeles,UnitedStates,USA,North America,KCQT,-118.4108,34.0194
+Covington,UnitedStates,USA,North America,KCVG,-84.5064,39.1399
+Washington,UnitedStates,USA,North America,KDCA,-77.0171,38.9041
+Denver,UnitedStates,USA,North America,KDEN,-104.8806,39.7618
+Dallas,UnitedStates,USA,North America,KDFW,-96.7655,32.7942
+Detroit/Wayne,UnitedStates,USA,North America,KDTW,-83.1022,42.383
+Fresno,UnitedStates,USA,North America,KFAT,-119.7945,36.7827
+Spokane,UnitedStates,USA,North America,KGEG,-117.4166,47.6736
+Wash DC/Dulles,UnitedStates,USA,North America,KIAD,-77.0171,38.9041
+Houston,UnitedStates,USA,North America,KIAH,-95.3863,29.7805
+Las Vegas,UnitedStates,USA,North America,KLAS,-115.264,36.2277
+NYC/LaGuardia,UnitedStates,USA,North America,KLGA,-73.9385,40.6643
+Little Rock,UnitedStates,USA,North America,KLIT,-92.3586,34.7254
+Memphis,UnitedStates,USA,North America,KMEM,-89.9785,35.1035
+Minneapolis,UnitedStates,USA,North America,KMSP,-93.2683,44.9633
+New Orleans,UnitedStates,USA,North America,KMSY,-89.939,30.0686
+Chicago O'Hare,UnitedStates,USA,North America,KORD,-87.6818,41.8376
+Portland,UnitedStates,USA,North America,KPDX,-122.65,45.537
+Philadelphia,UnitedStates,USA,North America,KPHL,-75.1333,40.0094
+Phoenix/Sky HRBR,UnitedStates,USA,North America,KPHX,-112.088,33.5722
+Pittsburgh,UnitedStates,USA,North America,KPIT,-79.9766,40.4398
+Portland,UnitedStates,USA,North America,KPWM,-71.4439,42.9847
+Raleigh/Durham,UnitedStates,USA,North America,KRDU,-78.6414,35.8302
+Richmond,UnitedStates,USA,North America,KRIC,-77.476,37.5314
+Sacramento/Execu,UnitedStates,USA,North America,KSAC,-121.4686,38.5666
+Seattle,UnitedStates,USA,North America,KSEA,-122.3509,47.6205
+San Francisco,UnitedStates,USA,North America,KSFO,-123.0322,37.7272
+Salt Lake City,UnitedStates,USA,North America,KSLC,-111.9314,40.7785
+St Louis/Lambert,UnitedStates,USA,North America,KSTL,-90.2446,38.6357
+Albany,UnitedStates,USA,North America,KALB,-73.9385,42
